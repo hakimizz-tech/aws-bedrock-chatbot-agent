@@ -10,7 +10,7 @@ Open WebUI · Bedrock Access Gateway · MCP tools — fully containerized and de
 [![AWS](https://img.shields.io/badge/AWS-ECS_Fargate-FF9900?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/fargate/)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon-Bedrock-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/bedrock/)
 
-📖 Read the companion article on [Medium](https://)
+📖 Read the companion article on [Medium](https://medium.com/@joshuakim408/deploying-your-own-ai-agent-with-amazon-bedrock-15b3e8fd6c39)
 
 </div>
 
@@ -67,7 +67,7 @@ Before deploying, ensure you have the following ready:
 Let's get the infrastructure up and running:
 
 ```bash
-git clone https://github.com/hakimizz-tech/aws-bedrock-chatbot.git
+git clone https://github.com/hakimizz-tech/aws-bedrock-chatbot-agent.git
 cd aws-bedrock-chatbot
 
 # 1. Configure your environment (AWS account, region, profile)
